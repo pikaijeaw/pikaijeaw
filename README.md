@@ -16,7 +16,7 @@
 - IPV4 Calculate
 - IP routing (Static Route , Default Route)
 - ทำงานบน Linux (Centos , Fedora , Ubuntu , Rocky Linux)
-- Linux Server (DHCP Server , Freeradius , CNR , Iptables , mysql , PHPMyAdmin , Apache , NginX , Let's Encrypt(SSL) , TFTP Server , Docker , PPTP VPN , SNMP , SNMPTT , DNS Server , tc HTB Linux(40%) , Cacti Monitor Device (https://www.cacti.net/) , )
+- Linux Server (DHCP Server , Freeradius , CNR , Iptables , mysql , PHPMyAdmin , Apache , NginX , Let's Encrypt(SSL) , TFTP Server , Docker , PPTP VPN , SNMP , SNMPTT , DNS Server , TC HTB Linux(40%) , Cacti Monitor Device (https://www.cacti.net/) , )
 - Config Device Cisco(L3) , Mikrotik , Zyxel , GPON Huawei , Huawei Switch(L2)
 - Backup file config file By SNMP
 <!--
