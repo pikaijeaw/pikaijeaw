@@ -10,7 +10,7 @@
 - เคยศึกษาการเขียนภาษา Mysql เพื่อนำมาใช้งานกับ Python
 
 ### My detail
-เคยทำงาน Network Engineer
+เคยทำงาน Network Engineer\n
 Skill
   - 
 <!--
