@@ -11,14 +11,16 @@
 - เคยศึกษา การทำงานของ docker & docker compose
 
 ## My detail
-เคยทำงาน Network Engineer
-### ✨ skill ✨
+เคยทำงาน IT Support & Network Engineer
+### ✨ Skill ✨
 - IPV4 Calculate
 - IP routing (Static Route , Default Route)
 - ทำงานบน Linux (Centos , Fedora , Ubuntu , Rocky Linux)
 - Linux Server (DHCP Server , Freeradius , CNR , Iptables , mysql , PHPMyAdmin , Apache , NginX , Let's Encrypt(SSL) , TFTP Server , Docker , PPTP VPN , SNMP , SNMPTT , DNS Server , TC HTB Linux(40%) , Cacti Monitor Device (https://www.cacti.net/) , )
 - Config Device Cisco(L3) , Mikrotik , Zyxel , GPON Huawei , Huawei Switch(L2)
 - Backup file config file By SNMP
+- Config Device & Internet for Hotel System
+- Maintennace Internet problem
 <!--
 **PiKaiJeawVV/PiKaiJeawVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
