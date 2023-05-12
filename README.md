@@ -12,6 +12,7 @@
 
 ## My detail
 เคยทำงาน Network Engineer
+### skill
 
 <!--
 **PiKaiJeawVV/PiKaiJeawVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
