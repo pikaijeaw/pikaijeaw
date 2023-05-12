@@ -1,7 +1,12 @@
 # Hi there 👋
 
+## สิ่งที่อยากลองทำ
+การเป็นโปรแกรมเมอร์,การเขียน coding
+- เคยศึกษาภาษา Python Scripts+Linux ด้วยตนเอง นำมาใช้งานในการควบคุมอุปกรณ์ Network (Mikrotik)
 ### My detail
-
+เคยทำงาน Network Engineer
+Skill
+  - 
 <!--
 **PiKaiJeawVV/PiKaiJeawVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
