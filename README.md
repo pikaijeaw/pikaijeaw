@@ -2,17 +2,19 @@
 
 ## สิ่งที่อยากลองทำ
 ### 
-การเป็นโปรแกรมเมอร์,การเขียน coding
+การเป็นโปรแกรมเมอร์, Full stack developer
 - กำลังศึกษาการทำงานของ JavaScript,MongoDB,Nodejs,Express.js,EJS
 
-
+## สิ่งที่เคยทำ
 - เคยศึกษาภาษา Python Scripts+Linux ด้วยตนเอง นำมาใช้งานในการควบคุมอุปกรณ์ Network (Mikrotik)
 - เคยศึกษาการเขียนภาษา Mysql เพื่อนำมาใช้งานกับ Python
+- เคยศึกษา การทำงานของ docker & docker compose
 
-### My detail
-เคยทำงาน Network Engineer\n
-Skill
-  - 
+Alt-H2
+## My detail
+เคยทำงาน Network Engineer
+
+Alt-H2
 <!--
 **PiKaiJeawVV/PiKaiJeawVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
