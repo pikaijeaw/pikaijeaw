@@ -2,8 +2,8 @@
 
 ## 😎 สิ่งที่สนใจ และ อยากทดลองทำ
 ### 
-## การเป็นโปรแกรมเมอร์, Full stack developer
-## กำลังศึกษาการทำงานของ JavaScript,MongoDB,Nodejs,Express.js,EJS,React.js
+## การเป็นโปรแกรมเมอร์, Soc analyst, Penetration Testing, Network Engineer
+## กำลังศึกษาการทำงานของ JavaScript, Python, Linux OS, Hacking, Cyber Security
 
 ## 😊 สิ่งที่เคยทำ 
 - เคยศึกษาภาษา Python Scripts+Linux ด้วยตนเอง นำมาใช้งานในการควบคุมอุปกรณ์ Network (Mikrotik)
@@ -15,7 +15,7 @@
 ### ✨ Skill ✨
 - IPV4 Calculate
 - IP routing (Static Route , Default Route)
-- ทำงานบน Linux (Centos , Fedora , Ubuntu , Rocky Linux)
+- ทำงานบน Linux (Centos , Fedora , Ubuntu , Rocky Linux, Kali Linux)
 - Linux Server (DHCP Server , Freeradius , CNR , Iptables , mysql , PHPMyAdmin , Apache , NginX , Let's Encrypt(SSL) , TFTP Server , Docker , PPTP VPN , SNMP , SNMPTT , DNS Server , TC HTB Linux , Cacti Monitor Device (https://www.cacti.net/) , )
 - Config Device Cisco(L3) , Mikrotik , Zyxel , GPON Huawei , Huawei Switch(L2)
 - Backup file config file By SNMP
