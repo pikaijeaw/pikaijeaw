@@ -1,8 +1,8 @@
 # 👋 Hi there 👋
 
-## 😎 สิ่งที่สนใจ และ อยากทดลองทำ
+# 😎 สิ่งที่สนใจ และ อยากทดลองทำ
 ### 
-## การเป็นโปรแกรมเมอร์, Soc analyst, Penetration Testing, Network Engineer
+# Programmer, Soc analyst, Penetration Testing, Network Security, Network Engineer
 ## กำลังศึกษาการทำงานของ JavaScript, Python, Linux OS, Hacking, Cyber Security
 
 ## 😊 สิ่งที่เคยทำ 
