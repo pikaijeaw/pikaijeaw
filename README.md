@@ -1,12 +1,12 @@
 # 👋 Hi there 👋
 
-# 😎 สิ่งที่สนใจ และ อยากทดลองทำ
+# สิ่งที่สนใจ และ อยากทดลองทำ
 ### 
-# Programmer, Soc analyst, Penetration Testing, Network Security, Network Engineer
-## กำลังศึกษาการทำงานของ JavaScript, Python, Linux OS, Hacking, Cyber Security
+# Programmer, Soc analyst, Penetration Testing, Network Security
+## กำลังศึกษาการทำงานของ Python, Linux OS, Hacking, Cyber Security
 
 ## 😊 สิ่งที่เคยทำ 
-- เคยศึกษาภาษา Python Scripts+Linux ด้วยตนเอง นำมาใช้งานในการควบคุมอุปกรณ์ Network (Mikrotik)
+- เคยศึกษาภาษา Python Scripts+Linux ด้วยตนเอง นำมาใช้งานในการควบคุมอุปกรณ์ Network
 - เคยศึกษาการเขียนภาษา Mysql เพื่อนำมาใช้งานกับ Python
 - เคยศึกษา การทำงานของ docker & docker compose
 
@@ -16,11 +16,10 @@
 - IPV4 Calculate
 - IP routing (Static Route , Default Route)
 - ทำงานบน Linux (Centos , Fedora , Ubuntu , Rocky Linux, Kali Linux)
-- Linux Server (DHCP Server , Freeradius , CNR , Iptables , mysql , PHPMyAdmin , Apache , NginX , Let's Encrypt(SSL) , TFTP Server , Docker , PPTP VPN , SNMP , SNMPTT , DNS Server , TC HTB Linux , Cacti Monitor Device (https://www.cacti.net/) , )
+- Linux Server (Sonrt , DHCP Server , Freeradius , CNR , Iptables , mysql , PHPMyAdmin , Apache , NginX , Let's Encrypt(SSL) , TFTP Server , Docker , PPTP VPN , SNMP , SNMPTT , DNS Server , TC HTB Linux , Cacti Monitor Device (https://www.cacti.net/) , )
 - Config Device Cisco(L3) , Mikrotik , Zyxel , GPON Huawei , Huawei Switch(L2)
 - Backup file config file By SNMP
-- Config Device & Internet for Hotel System
-- Maintennace Internet problem
+
 <!--
 **PiKaiJeawVV/PiKaiJeawVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
