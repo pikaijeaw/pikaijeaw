@@ -13,12 +13,11 @@
 ## My detail
 เคยทำงาน IT Support & Network Engineer
 ### ✨ Skill ✨
-- IPV4 Calculate
-- IP routing (Static Route , Default Route)
-- ทำงานบน Linux (Centos , Fedora , Ubuntu , Rocky Linux, Kali Linux)
-- Linux Server (Sonrt , DHCP Server , Freeradius , CNR , Iptables , mysql , PHPMyAdmin , Apache , NginX , Let's Encrypt(SSL) , TFTP Server , Docker , PPTP VPN , SNMP , SNMPTT , DNS Server , TC HTB Linux , Cacti Monitor Device (https://www.cacti.net/) , )
-- Config Device Cisco(L3) , Mikrotik , Zyxel , GPON Huawei , Huawei Switch(L2)
-- Backup file config file By SNMP
+- Network Everything
+- Linux (Command)
+- Linux Server (Snort , DHCP Server , Freeradius , CNR , Iptables , mysql , PHPMyAdmin , Apache , NginX , Let's Encrypt(SSL) , TFTP Server , Docker , PPTP VPN , SNMP , SNMPTT , DNS Server , TC HTB Linux , Cacti Monitor Device (https://www.cacti.net/) )
+- Write script python for check network and device
+- Make Notify alert when problem
 
 <!--
 **PiKaiJeawVV/PiKaiJeawVV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
