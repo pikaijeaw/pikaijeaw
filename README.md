@@ -1,9 +1,5 @@
 # 👋 Hi there 👋
 
-# สิ่งที่สนใจ และ อยากทดลองทำ
-### 
-# Programmer, Soc analyst, Penetration Testing, Network Security
-
 ## 😊 Learning
 - Python Scripts+Linux+Network
 - Python with sql
