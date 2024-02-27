@@ -1,4 +1,4 @@
-# 👋 Hi there 👋
+# 👋 Hello!
 
 ## 😊 Learning
 - Python Scripts+Linux+Network
