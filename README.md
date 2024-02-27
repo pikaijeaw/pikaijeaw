@@ -6,8 +6,7 @@
 - tools for Pentesting
 
 ## My detail
-First job working in IT Support & Network Engineer\n
-Now SOC Engineer
+First job work IT Support & Network Engineer, Now is working in SOC Engineer
 
 ### ✨ Skill ✨
 - Network Everything
