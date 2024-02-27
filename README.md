@@ -6,7 +6,9 @@
 - tools for Pentesting
 
 ## My detail
-เคยทำงาน IT Support & Network Engineer
+First job working in IT Support & Network Engineer
+Now SOC Engineer
+
 ### ✨ Skill ✨
 - Network Everything
 - Linux (Command)
