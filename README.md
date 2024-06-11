@@ -1,17 +1,11 @@
 # 👋 Hello!
 
-## 😊 Learning
-- Python Scripts+Linux+Network
-- Python with sql
-- tools for Pentesting
-
 ## My detail
-First job work IT Support & Network Engineer, Now is working in SOC Engineer
+IT Support & Network Engineer, Now is working in SOC Engineer
 
 ### ✨ Skill ✨
 - Network Everything
 - Linux (Command)
-- Linux Server (Snort , DHCP Server , Freeradius , CNR , Iptables , mysql , PHPMyAdmin , Apache , NginX , Let's Encrypt(SSL) , TFTP Server , Docker , PPTP VPN , SNMP , SNMPTT , DNS Server , TC HTB Linux , Cacti Monitor Device (https://www.cacti.net/) )
 - Write script python for check network and device
 - Make Notify alert when problem
 
