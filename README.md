@@ -4,6 +4,7 @@
 IT Support & Network Engineer, Now is working in SOC Engineer
 
 ### ✨ Skill ✨
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - Network Everything
 - Linux (Command)
 - Write script python for check network and device
